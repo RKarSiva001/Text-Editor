@@ -1,0 +1,36 @@
+.app-container {
+  background-color: #25262c;
+  padding: 20px;
+}
+
+.card-container {
+  display: flex;
+  background-color: #1b1c22;
+  height: 100vh;
+}
+
+.left-card {
+  padding: 10px;
+  width: 50vw;
+}
+
+.heading {
+  color: #f1f5f9;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+}
+
+.right-card {
+  border-radius: 20px;
+  width: 50vw;
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid #f8fafc;
+}
+
+.list {
+  display: flex;
+  list-style-type: none;
+}
